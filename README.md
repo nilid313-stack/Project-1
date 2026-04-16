@@ -1,0 +1,1 @@
+eh a project i did while vibe coding, should run only on macos or emulator, it should detect the classic weedhack Maas malware but i haven't tested it with the real thing, if u want to i advice to do in a simulated enviorment because i don't know to wich point this is going to protect, if u get hacked it is not under my liability
